@@ -1,8 +1,8 @@
-# foundation_design
+# Sound-Colour-Space foundation_design
 
 Layout of the project Sound-Colour-Space - A Virtual Mueum with foundation
 
-See the basic foundation starter project [Foundation for Sites 6](http://foundation.zurb.com/sites). It includes a Sass compiler and a starter HTML file for you.
+See the basic foundation starter project [Foundation for Sites 6](http://foundation.zurb.com/sites). It includes a Sass compiler and a starter HTML file.
 
 ## Installation
 
